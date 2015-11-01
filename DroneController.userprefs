@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GyroscopeInput.cs">
+    <Files>
+      <File FileName="Assets\AccelerometerInput.cs" Line="48" Column="23" />
+      <File FileName="Assets\SendObjectData.cs" Line="56" Column="1" />
+      <File FileName="Assets\GyroscopeInput.cs" Line="12" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
